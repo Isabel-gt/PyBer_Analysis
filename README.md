@@ -27,14 +27,17 @@ The average fare per driver in rural cities is of $55.49, in the suburban ones t
 
 <img width="513" alt="PyBer_data_table1" src="https://user-images.githubusercontent.com/111388644/194728005-236ddcda-e5a7-4043-a181-10302867b615.png">
 
-IMAGEN 2 DE LA GRÁFICA DE LINEAS CUANDO TE SALGA
+![PyBer_fare_summary](https://user-images.githubusercontent.com/111388644/195171206-77273655-46af-4f93-bf22-eda91adc2cb6.png)
+
 
 ## Summary
 
-<p align="justify">Based on the results mentioned above we can draw certain conclusions that can potentially help the PyBer company to improve access to ride sharing services in underserved areas.</p> 
+<p align="justify">Based on the results mentioned above we can draw certain conclusions that can potentially help the PyBer company to improve access to ride sharing services in underserved areas as well as to generate more profit.</p> 
 
-<p align="justify">The first recommendation is to</p> 
+<p align="justify">The first recommendation is to set the fares per ride in urban areas at a lower price to increase the total number of rides. This could be beneficial in the long term because it could cause an increase in the total fares in urban cities.</p> 
 
-<p align="justify">The second one would be to</p>
+<p align="justify">The second recommendation would be to increase the number of drivers in rural cities in order to increase the number of rides. If this were to happen the company would have a bigger profit, since the total fares would increase. Therefore, there would be an improvement in the access that people in rural cities have to this ride sharing service.</p>
 
-<p align="justify">Finally, the last recommendation is to</p>
+<p align="justify">Finally, the last recommendation is to decrease the number of drivers in urban cities since this number is higher than the number of rides. This means that there are a lot of drivers that are not generating any profit. By doing this last recommendation the rides as well as the total amount of fares could increase.</p>
+
+
